@@ -23,12 +23,9 @@ The dataset contains information such as book name, author, genre, user rating, 
 - Explored basic trends in ratings and reviews
 - Exported summary results to CSV files
 
-## Key Insights
+## Insights
 - A small number of authors appear repeatedly among top bestsellers
 - Fiction books dominate the bestseller list
 - User ratings remain consistently high across years
 
-## How to Run
-This notebook was originally developed on Kaggle.  
-If running locally, dataset file paths may need to be updated.
 
